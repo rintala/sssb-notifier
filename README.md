@@ -10,9 +10,9 @@ Small Python script to scrape the Stockholm student housing queue SSSB, assistin
 
 The Selenium web driver has been used in order to scrape the SSSB webpage. This is the only non-Python dependency. Install it with the following command:
 
-> ```shell
-> pip install -r requirements.txt
-> ```
+```shell
+pip install -r requirements.txt
+```
 
 ### Email
 
